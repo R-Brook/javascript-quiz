@@ -1,10 +1,12 @@
 /*
-- 3 or more questions
-- 2 dimensional array - question and answer
-- how many got right and which ones
-- how many got wrong and which ones
-- overall score
-- use prompt to ask questions
+I was given this challenge on Team Treehouse. All code is my own apart from the print function on lines 27-29.
+*/
+
+/*
+The challenge:
+- Make a quiz with 3 or more questions
+- Keep track of the score
+- Show which questions were answered correctly and which were incorrect
 */
 
 //Quiz questions and their answers
@@ -60,11 +62,3 @@ printQuestions(correctAnswer);
 print("<h2>Answered incorrectly:</h2>");
 //prints out incorrectly answered questions
 printQuestions(wrongAnswer);
-
-
-
-
-
-
-
-
