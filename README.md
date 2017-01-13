@@ -1,4 +1,4 @@
-# javascript
+# JavaScript Quiz
 
 I was given this challenge on Team Treehouse. All code is my own apart from the print function on lines 27-29.
 
